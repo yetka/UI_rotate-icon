@@ -1,0 +1,36 @@
+.image {
+  margin: 100px;
+  float: left;
+}
+
+.image img {
+  width: 500px;
+  height: 500px;
+}
+
+img.arrows {
+  float: left;
+  width: 50px;
+  height: 50px;
+  margin-top: 300px;
+}
+
+.change-angle-90 {
+  transform: rotate(90deg);
+  float: left;
+}
+
+.change-angle-180 {
+  transform: rotate(180deg);
+  float: left;
+}
+
+.change-angle-270 {
+  transform: rotate(270deg);
+  float: left;
+}
+
+.change-angle-360 {
+  transform: rotate(360deg);
+  float: left;
+}
